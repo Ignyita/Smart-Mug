@@ -32,17 +32,23 @@ Specifications:
 ### 4. 12V Adaptor   
 ### 5. Wires
 <hr>
-When the code is run , the serial monitor will show the following   
-![serial monitor](https://user-images.githubusercontent.com/109460604/236690123-3024e250-52ff-408d-ad63-4ad06773a50e.jpg)     
-The local id generated in the serial monitor when typed into a browser connected to the same wifi we get the below webpage            
-![web page](https://user-images.githubusercontent.com/109460604/236690256-560ab092-01d4-4776-9a7f-c242244e98f1.jpg)       
-The overall circuit is as shown below    
-![the circuit](ht![iot cube connections](https://user-images.githubusercontent.com/109460604/236690297-ac988374-7d1a-4631-ad50-9db62a7abe34.jpg)    
+When the code is run , the serial monitor will show the following <br>         
+   ![serial monitor](https://user-images.githubusercontent.com/109460604/236690555-f1fcda21-6c74-4061-91d7-72b023c2d5f0.jpg)
+
+The local id generated in the serial monitor when typed into a browser connected to the same wifi we get the below webpage <br>                ![web page](https://user-images.githubusercontent.com/109460604/236690569-42aa8068-2799-42b5-8271-3644c7868d52.jpg)
+
+    
+The overall circuit is as shown below  <br>       
+![the circuit](https://user-images.githubusercontent.com/109460604/236690580-5da602a3-53fa-46e7-8fa8-37cf7c857262.jpg)
+
 The connections are as follows :
-1) The IOT cube connections    
-tps://user-images.githubusercontent.com/109460604/236690280-47a13338-0fcb-41b2-9942-966d3af684f9.jpg)    
-2) The PTC heater connections     
-![Ptc heater connections](https://user-images.githubusercontent.com/109460604/236690338-656e82ee-9856-47c3-bf92-4690af74ae73.jpg)    
+1) The IOT cube connections  <br>  
+   ![iot cube connections](https://user-images.githubusercontent.com/109460604/236690596-03693664-2df0-4492-9484-ec568273ba61.jpg)
+ 
+2) The PTC heater connections  <br>  
+    ![Ptc heater connections](https://user-images.githubusercontent.com/109460604/236690620-abf3f78f-f153-406f-9f79-28bbfd207472.jpg)
+  
+          
 
 
 
