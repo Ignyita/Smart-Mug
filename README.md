@@ -32,17 +32,17 @@ Specifications:
 ### 4. 12V Adaptor   
 ### 5. Wires
 <hr>
-When the code is run , the serial monitor will show the following
-![serial monitor](https://user-images.githubusercontent.com/109460604/236690123-3024e250-52ff-408d-ad63-4ad06773a50e.jpg)
-The local id generated in the serial monitor when typed into a browser connected to the same wifi we get the below webpage
-![web page](https://user-images.githubusercontent.com/109460604/236690256-560ab092-01d4-4776-9a7f-c242244e98f1.jpg)
-The overall circuit is as shown below
-![the circuit](ht![iot cube connections](https://user-images.githubusercontent.com/109460604/236690297-ac988374-7d1a-4631-ad50-9db62a7abe34.jpg)
+When the code is run , the serial monitor will show the following   
+![serial monitor](https://user-images.githubusercontent.com/109460604/236690123-3024e250-52ff-408d-ad63-4ad06773a50e.jpg)     
+The local id generated in the serial monitor when typed into a browser connected to the same wifi we get the below webpage            
+![web page](https://user-images.githubusercontent.com/109460604/236690256-560ab092-01d4-4776-9a7f-c242244e98f1.jpg)       
+The overall circuit is as shown below    
+![the circuit](ht![iot cube connections](https://user-images.githubusercontent.com/109460604/236690297-ac988374-7d1a-4631-ad50-9db62a7abe34.jpg)    
 The connections are as follows :
-1) The IOT cube connections
-tps://user-images.githubusercontent.com/109460604/236690280-47a13338-0fcb-41b2-9942-966d3af684f9.jpg)
-2) The PTC heater connections
-![Ptc heater connections](https://user-images.githubusercontent.com/109460604/236690338-656e82ee-9856-47c3-bf92-4690af74ae73.jpg)
+1) The IOT cube connections    
+tps://user-images.githubusercontent.com/109460604/236690280-47a13338-0fcb-41b2-9942-966d3af684f9.jpg)    
+2) The PTC heater connections     
+![Ptc heater connections](https://user-images.githubusercontent.com/109460604/236690338-656e82ee-9856-47c3-bf92-4690af74ae73.jpg)    
 
 
 
