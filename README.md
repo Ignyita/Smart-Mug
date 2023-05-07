@@ -35,7 +35,7 @@ Specifications:
 When the code is run , the serial monitor will show the following <br>         
 ![serial monitor](https://user-images.githubusercontent.com/109460604/236690702-ee1ea1c7-15c6-4113-8609-c1672d917ae1.jpg)
 
-The local id generated in the serial monitor when typed into a browser connected to the same wifi we get the below webpage <br>                ![web page](https://user-images.githubusercontent.com/109460604/236690569-42aa8068-2799-42b5-8271-3644c7868d52.jpg)
+The local id generated in the serial monitor when typed into a browser (connected to the same wifi) we get the below webpage <br>            ![web page](https://user-images.githubusercontent.com/109460604/236690569-42aa8068-2799-42b5-8271-3644c7868d52.jpg)
   
 The overall circuit is as shown below  <br>       
 ![the circuit](https://user-images.githubusercontent.com/109460604/236690580-5da602a3-53fa-46e7-8fa8-37cf7c857262.jpg)
