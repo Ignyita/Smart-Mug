@@ -78,7 +78,7 @@ void setup(){
 pinMode(heater, OUTPUT);//defines relay as output
 pinMode(DHTPIN, INPUT);//defines dht sensor as input
   dht.begin();
-  // configure LED PWM functionalitites
+  // configure PWM functionalitites
   ledcSetup(ledChannel, freq, resolution);
   
   // attach the channel to the GPIO to be controlled
