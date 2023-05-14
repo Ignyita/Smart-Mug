@@ -74,7 +74,7 @@ String processor(const String& var){
 void setup(){
   // Serial port for debugging purposes
   Serial.begin(115200);
-  Serial.println(F("DHT21"));
+  Serial.println(F("DHT11"));
 pinMode(heater, OUTPUT);//defines relay as output
 pinMode(DHTPIN, INPUT);//defines dht sensor as input
   dht.begin();
